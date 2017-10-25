@@ -10,7 +10,12 @@ If you have questions/requests/suggestions for future corners, add a comment to 
 
 Past Code Corners:
 
- * [17 Oct 2017: Introduction, Jupyter notebooks](http://ioa-coding.github.io/codecorners/2017_10_17_CC01_Intro_Jupyter.html) [(Marco Tazzari)](https://github.com/mtazzari)
- * [24 Oct 2017: astroquery: accessing astronomical databases](TBD) [(TBC)](TBC)
-
+ * 17 Oct 2017: Jupyter notebooks by [Marco Tazzari](https://github.com/mtazzari) 
+ [[notebook]](https://github.com/IoA-coding/codecorners/blob/master/material/2017_10_17/2017_10_17_CC01_Intro_Jupyter.ipynb) 
+ [[html]](http://ioa-coding.github.io/codecorners/2017_10_17_CC01_Intro_Jupyter.html) 
+ * 24 Oct 2017: astroquery: accessing astronomical databases by [Brigitta Sipocz](https://github.com/bsipocz/) 
+ [[notebook]](https://github.com/IoA-coding/codecorners/blob/master/material/2017_10_24/random%20astroquery%20examples.ipynb) 
+ [[html]](http://ioa-coding.github.io/codecorners/2017_10_24_CC02_astroquery.html) 
+ [[slides]](https://github.com/IoA-coding/codecorners/blob/master/material/2017_10_24/astroquery_codecorners.pdf)
+* 31 Oct 2017: TBD
 
