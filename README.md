@@ -20,4 +20,6 @@ Past Code Corners:
  [[html]](http://ioa-coding.github.io/codecorners/2017_10_24_CC02_astroquery.html) 
  [[slides]](https://github.com/IoA-coding/codecorners/blob/master/material/2017_10_24/astroquery_codecorners.pdf)
 * 31 Oct 2017: using ssh config file and sshfs to locally mount remote drives by [Marco Tazzari](https://github.com/mtazzari) 
+ [[notebook]](https://github.com/IoA-coding/codecorners/blob/master/material/2017_10_31/ssh_and_sshfs.ipynb) 
+ [[html]](http://ioa-coding.github.io/codecorners/2017_10_31_CC03_ssh_and_sshfs.html) 
 
