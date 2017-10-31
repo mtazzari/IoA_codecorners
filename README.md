@@ -1,12 +1,14 @@
 # Code Corners
 
-In this repository we will collect tutorials and notes from the **IoA Code Corners**, weekly informal gatherings to share code knowledge and expertise.
+In this repository we collect tutorials and notes from the **Code Corners**, weekly informal gatherings to share code knowledge and expertise, held at the [Institute of Astronomy](http://www.ast.cam.ac.uk/), University of Cambridge.
 
 Organised by: Marco Tazzari, Matt Auger, Davide Fiacconi.
 
-[Here](https://calendar.google.com/calendar/embed?src=d2kk8d3lp2bb98vajm0calm494%40group.calendar.google.com&ctz=Europe/London) you can view (and sign up to) the shared Google calendar of Code Corners.
+[Here](https://calendar.google.com/calendar/embed?src=d2kk8d3lp2bb98vajm0calm494%40group.calendar.google.com&ctz=Europe/London) you can view and sign up to the shared Google calendar of Code Corners.
 
-If you have questions/requests/suggestions for future corners, add a comment to [this page](https://github.com/IoA-coding/codecorners/issues/1) in the Issues or send us an email.
+We have a dedicated mailing list where we send out weekly announcements and we discuss questions/requests/suggestions for future corners. We invite the interested people to subscribe by sending an email to ast-code-corner-request@lists.cam.ac.uk with the word "subscribe" in the Subject. 
+
+We also have [this page](https://github.com/IoA-coding/codecorners/issues/1) in the Issues with a list of suggestions for future code corners.
 
 Past Code Corners:
 
@@ -17,5 +19,5 @@ Past Code Corners:
  [[notebook]](https://github.com/IoA-coding/codecorners/blob/master/material/2017_10_24/random%20astroquery%20examples.ipynb) 
  [[html]](http://ioa-coding.github.io/codecorners/2017_10_24_CC02_astroquery.html) 
  [[slides]](https://github.com/IoA-coding/codecorners/blob/master/material/2017_10_24/astroquery_codecorners.pdf)
-* 31 Oct 2017: TBD
+* 31 Oct 2017: using ssh config file and sshfs to locally mount remote drives by [Marco Tazzari](https://github.com/mtazzari) 
 
