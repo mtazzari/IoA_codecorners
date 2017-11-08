@@ -22,5 +22,5 @@ Past Code Corners:
 * 31 Oct 2017: using ssh config file and sshfs to locally mount remote drives by [Marco Tazzari](https://github.com/mtazzari) 
  [[notebook]](https://github.com/IoA-coding/codecorners/blob/master/material/2017_10_31/ssh_and_sshfs.ipynb) 
  [[html]](http://ioa-coding.github.io/codecorners/2017_10_31_CC03_ssh_and_sshfs.html) 
- * 07 Nov 2017: Using Cython to accelerate numerical Python code by [Bjoern Soergel](http://www.ast.cam.ac.uk/~bs538): [notebook](https://github.com/bs538/CodeCorner_Cython/blob/master/Cython_CodeCorner.ipynb), [html](https://rawgit.com/bs538/CodeCorner_Cython/master/Cython_CodeCorner.html)
+ * 07 Nov 2017: Using Cython to accelerate numerical Python code by [Bjoern Soergel](http://www.ast.cam.ac.uk/~bs538): [[notebook]](https://github.com/bs538/CodeCorner_Cython/blob/master/Cython_CodeCorner.ipynb), [[html]](https://rawgit.com/bs538/CodeCorner_Cython/master/Cython_CodeCorner.html)
 
