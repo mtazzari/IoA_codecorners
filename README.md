@@ -25,3 +25,4 @@ Past Code Corners:
  * 07 Nov 2017: Using Cython to accelerate numerical Python code by [Bjoern Soergel](http://www.ast.cam.ac.uk/~bs538): [[notebook]](https://github.com/IoA-coding/codecorners/blob/master/material/2017_11_07/Cython_CodeCorner.ipynb), [[html]](http://ioa-coding.github.io/codecorners/2017_11_07_CC04_Cython_CodeCorner.html)
 * 14 Nov 2017: Profiling C++/Python code by [Giovanni Rosotti]()
 * 21 Nov 2017: Discussion on version control systems, git, GitHub: basic concepts, use cases.
+* 12 Dec 2017: Code testing, continuous integration by [Brigitta Sipocz]()
